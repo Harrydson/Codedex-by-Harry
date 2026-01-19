@@ -1,0 +1,10 @@
+# Write code below 💖
+# OMG we're so proud of you! (╥﹏╥)
+print('Congrats! You\'ve made it to the end of chapter one! 🫶')
+print("1-10-2026")
+print("feel exciting and happy to learn programming")
+print("i want learn python to create atomatications and programs")
+print("is going to be harde but dont give up keep practicing every day till \n you master repetition obsecion brake talent")
+print("pending to learn more about python and programming")
+print("i want to create games and apps in the future")
+print("thank you codedex for this opportunity to learn programming")    
